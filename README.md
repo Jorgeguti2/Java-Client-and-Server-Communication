@@ -2,7 +2,6 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Group Members](#contributions)
 
 ## About <a name = "about"></a>
 

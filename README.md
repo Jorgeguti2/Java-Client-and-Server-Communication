@@ -8,6 +8,8 @@
 
 This project is composed of 4 files: QuoteServer.java, QuoteClient.java, QuoteServer.java, and QuoteClient.java.
 
+It is a program that sets up a client and server connection for them to communicate with each other. The client submits a message and the server repeats it back.
+
 ## Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your local machine.
